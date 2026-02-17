@@ -1,0 +1,18 @@
+{
+  "created" : "2026-02-17T19:10:00.073Z",
+  "id" : "pjm-lane-protocol",
+  "labels" : [
+    "protocol"
+  ],
+  "log" : [
+    {
+      "action" : "created",
+      "by" : "todo3\/pjm",
+      "ts" : "2026-02-17T19:10:00.073Z"
+    }
+  ],
+  "owner" : "todo3\/pjm",
+  "schemaVersion" : "0.1.0",
+  "status" : "backlog",
+  "title" : "PJM lane protocol"
+}
